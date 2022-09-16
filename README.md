@@ -1,5 +1,5 @@
-![CSE Student](https://drive.google.com/file/d/1cTHjDmbzBWfWcOijEpCnPnHXgrZoBxBM/view?usp=sharing)
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/nur-amin-sifat/" target="blank"> Nur Amin Sifat</a></h1>
+![CSE Student]
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/nur-amin-sifat/" target="blank">Abu Sufian</a></h1>
 <h3 align="center">I'm passionate programmer and web developer from Bangladesh</h3>
 #### CSE Student
 Currently, I'm pursing my final year Computer Science And  Engineering from Daffodil International University.I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
