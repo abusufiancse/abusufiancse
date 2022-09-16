@@ -6,14 +6,6 @@ Currently, I'm pursing my final year Computer Science And  Engineering from Daff
 
 Skills:  Html, CSS, C, Java, Python, 3D modeling, Photoshop, Illustrator,
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 - 🔭 I’m currently working on My Study to develop myself
 
 - 🌱 I’m currently learning Web development
@@ -24,7 +16,6 @@ Skills:  Html, CSS, C, Java, Python, 3D modeling, Photoshop, Illustrator,
 
 - 📫 How to reach me **sobujmahmud2532@gmail.com**
 <br/>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abusufiancse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abusufiancse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abusufiancse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abusufian_sobuj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abu_sufian_cse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://l.facebook.com/l.php?u=https%3A%2F%2Fsites.google.com%2Fdiu.edu.bd%2Fabusufiansobuj%2F%3Ffbclid%3DIwAR3ZDFqgrnHvBwh-Alvlz_rAQ_5SOSiYlNgGH07dQaDWIacPe4Bfn_3RLzg&h=AT3-5adTcyO14eInu47Hq3GzF7d18TXdgKxBZ3T9s93Sw4jnpugjBo336hQUJkgXI3BaIp98w0d_p8Kv-YJHj22aF4Zl-3-CZf_PVKR86r8LeU0E-WydMM-psR6AYxH_H6OgjQ)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abusufiancse)](https://github.com/ryo-ma/github-profile-trophy)
 
