@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/nur-amin-sifat/" target="blank">Abu Sufian</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/abusufiancse/" target="blank">Abu Sufian</a></h1>
 <h3 align="center">I'm passionate programmer and web developer from Bangladesh</h3>
-CSE Student
+I'm a CSE Student.
 Currently, I'm pursing my final year Computer Science And  Engineering from Daffodil International University.I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
 
 Skills:  Html, CSS, C, Java, Python, 3D modeling, Photoshop, Illustrator,
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 🔭 I’m currently working on My Study to develop myself
 
@@ -15,8 +18,6 @@ Skills:  Html, CSS, C, Java, Python, 3D modeling, Photoshop, Illustrator,
 
 - 📫 How to reach me **sobujmahmud2532@gmail.com**
 <br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abusufiancse)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abusufiancse)](https://github.com/anuraghazra/github-readme-stats)
 
