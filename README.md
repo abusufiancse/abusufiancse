@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/abusufiancse/" target="blank">Abu Sufian</a></h1>
 <h3 align="center">I'm passionate programmer and web developer from Bangladesh</h3>
 I'm a CSE Student.
-Currently, I'm pursing my final year Computer Science And  Engineering from Daffodil International University.I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
+Currently, I'm pursing my final year Computer Science And  Engineering from Daffodil International University., I’ve completed a great deal of coursework on learning many things to be a computer engineer, also I spent some time for volunteering club activities Cyber security club (as a General Secretary), Robotics club and I did some group project and organize club event. It also helped me grow my skills in problem solving, team collaboration, verbal communication and project leadership. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
 
 Skills:  Html, CSS, C, Java, Python, 3D modeling, Photoshop, Illustrator,
 <a target="_blank" align="center">
