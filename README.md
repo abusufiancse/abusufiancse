@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/abusufiancse/" target="blank">Abu Sufian</a></h1>
 <h3 align="center">I'm passionate programmer and Web & Android developer from Bangladesh</h3>
 I'm a CSE Student.
-Currently, I'm pursing my final year Computer Science And  Engineering from Daffodil International University., I’ve completed a great deal of coursework on learning many things to be a computer engineer, also I spent some time for volunteering club activities Cyber security club (as a General Secretary), Robotics club and I did some group project and organize club event. It also helped me grow my skills in problem solving, team collaboration, verbal communication and project leadership. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
+Recently, I completed my graduatation in Computer Science And  Engineering from Daffodil International University., I’ve completed a great deal of coursework on learning many things to be a computer engineer, also I spent some time for volunteering club activities Cyber security club (as a General Secretary) & Robotics club, I did some group project and organize club event. It also helped me grow my skills in problem solving, team collaboration, verbal communication and project leadership. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
 
 Skills: C, Java, Python, Dart, Flutter, Html, CSS, Bootstrap, JavaScript, PHP, Laravel, My-SQL.
 <a target="_blank" align="center">
@@ -12,9 +12,9 @@ Skills: C, Java, Python, Dart, Flutter, Html, CSS, Bootstrap, JavaScript, PHP, L
 
 - 🌱 I’m currently learning Web development
 
-- 🌱 I’m looking to collaborate on Github
+- 🌱 I’m looking to collaborate on GitHub
 
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Flutter Development
 
 - 📫 How to reach me **sobujmahmud2532@gmail.com**
 <br/>
