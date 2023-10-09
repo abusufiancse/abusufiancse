@@ -8,13 +8,9 @@ Skills: C, Java, Python, Dart, Flutter, Html, CSS, Bootstrap, JavaScript, PHP, L
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on My Study to develop myself
-
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently working on Android development
 
 - 🌱 I’m looking to collaborate on GitHub
-
-- 🌱 I’m currently learning Flutter Development
 
 - 📫 How to reach me **sobujmahmud2532@gmail.com**
 <br/>
