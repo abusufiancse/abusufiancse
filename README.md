@@ -1,9 +1,23 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/abusufiancse/" target="blank">Abu Sufian</a></h1>
 <h3 align="center">I'm passionate programmer and Web & Android developer from Bangladesh</h3>
-I'm a CSE Student.
-Recently, I completed my graduatation in Computer Science And  Engineering from Daffodil International University., I’ve completed a great deal of coursework on learning many things to be a computer engineer, also I spent some time for volunteering club activities Cyber security club (as a General Secretary) & Robotics club, I did some group project and organize club event. It also helped me grow my skills in problem solving, team collaboration, verbal communication and project leadership. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
+Highly skilled and dedicated Flutter Android Developer with a bachelor's degree in Computer
+Science and Engineering. Demonstrated expertise in Dart and Flutter with a passion for mobile app
+development. Proven ability to deliver high-quality solutions, troubleshoot issues, and collaborate
+effectively in team environments. Seeking an opportunity to contribute to a dynamic development
+team and drive innovative mobile app solutions.
 
-Skills: C, Java, Python, Dart, Flutter, Html, CSS, Bootstrap, JavaScript, PHP, Laravel, My-SQL.
+<h3> TECHNICAL SKILL AND SOFT SKILL </h3>
+ Programming Languages: Dart, Flutter, Java, Python
+ Frameworks and Libraries: Firebase, RESTful APIs, SQLite
+ Development Tools: GitHub, GitLab, VS Code, Android Studio
+ AI Integration: Proficient in leveraging AI tools, such as ChatGPT, for fast and efficient
+development
+ Problem-Solving: Adept at identifying and resolving programming challenges
+ Collaboration: Strong teamwork and collaboration skills fostered through project
+experiences
+ Communication: Excellent verbal and written communication skills
+ Critical Thinking: Demonstrated ability in critical thinking and logical reasoning.
+ Operating Systems: In-depth knowledge of Windows, Linux, and Ubuntu
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
