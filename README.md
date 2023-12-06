@@ -7,7 +7,7 @@ effectively in team environments. Seeking an opportunity to contribute to a dyna
 team and drive innovative mobile app solutions.
 
 <h3> TECHNICAL SKILL AND SOFT SKILL </h3>
-<h4>Programming Languages: Dart, Flutter, Java, Python</h4>
+<h7>Programming Languages: Dart, Flutter, Java, Python</h7>
 <h4>Frameworks and Libraries: Firebase, RESTful APIs, SQLite</h4>
 <h4>Development Tools: GitHub, GitLab, VS Code, Android Studio</h4>
 <h4>AI Integration: Proficient in leveraging AI tools, such as ChatGPT, for fast and efficient
