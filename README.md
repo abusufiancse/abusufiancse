@@ -7,17 +7,17 @@ effectively in team environments. Seeking an opportunity to contribute to a dyna
 team and drive innovative mobile app solutions.
 
 <h3> TECHNICAL SKILL AND SOFT SKILL </h3>
-- <h4>Programming Languages:<h4> Dart, Flutter, Java, Python
-- Frameworks and Libraries: Firebase, RESTful APIs, SQLite
-- Development Tools: GitHub, GitLab, VS Code, Android Studio
-- AI Integration: Proficient in leveraging AI tools, such as ChatGPT, for fast and efficient
-development
-- Problem-Solving: Adept at identifying and resolving programming challenges
-- Collaboration: Strong teamwork and collaboration skills fostered through project
-experiences
-- Communication: Excellent verbal and written communication skills
-- Critical Thinking: Demonstrated ability in critical thinking and logical reasoning.
-- Operating Systems: In-depth knowledge of Windows, Linux, and Ubuntu
+<h4>Programming Languages: Dart, Flutter, Java, Python</h4>
+<h4>Frameworks and Libraries: Firebase, RESTful APIs, SQLite</h4>
+<h4>Development Tools: GitHub, GitLab, VS Code, Android Studio</h4>
+<h4>AI Integration: Proficient in leveraging AI tools, such as ChatGPT, for fast and efficient
+development</h4>
+<h4>Problem-Solving: Adept at identifying and resolving programming challenges
+experiences</h4>
+<h4>Collaboration: Strong teamwork and collaboration skills fostered through project</h4>
+<h4>Communication: Excellent verbal and written communication skills</h4>
+<h4>Critical Thinking: Demonstrated ability in critical thinking and logical reasoning.</h4>
+<h4>Operating Systems: In-depth knowledge of Windows, Linux, and Ubuntu</h4>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
