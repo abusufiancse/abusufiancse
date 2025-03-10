@@ -28,14 +28,5 @@ experiences</h7>
 
 - 📫 How to reach me **sobujmahmud2532@gmail.com**
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abusufiancse&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abusufiancse)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abusufiancse&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abusufiancse)  
-
-![Profile views](https://gpvc.arturio.dev/abusufiancse)  
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
 </p>
