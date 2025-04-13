@@ -40,3 +40,6 @@ experiences</h7>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abusufiancse&" alt="abusufiancse" /></p>
 
 </p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MrNitishroy/MrNitishroy/output/snake.svg" alt="Snake animation" />
