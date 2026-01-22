@@ -1,80 +1,128 @@
-<h1 align="center">Hi 👋, I'm Abu Sufian</h1>
-<h3 align="center">Flutter Developer | Cross-Platform Mobile & Desktop Applications</h3>
+<h1 align="center">Abu Sufian</h1>
+<h3 align="center">Flutter Engineer • Cross-Platform Mobile & Desktop Systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abusufiancse/" target="_blank">LinkedIn</a> •
-  <a href="https://abusufian.engineer" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/abusufiancse/">LinkedIn</a> •
+  <a href="https://abusufian.engineer">Portfolio</a> •
   <a href="mailto:md.abusufiansobuj@gmail.com">Email</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## Overview
 
-I am a Flutter Developer with over **2+ years of professional experience** building and deploying production-grade applications for **Android, iOS, and desktop platforms**. I specialize in developing scalable, high-performance applications across **e-commerce, healthcare, and e-learning** domains.
+Flutter Engineer with **2+ years of professional experience** designing and delivering **production-scale mobile and desktop applications**. Experienced in **end-to-end ownership**, clean architecture, performance optimization, and cross-team collaboration.
 
-I have hands-on experience working in **agile and remote-friendly environments**, collaborating with backend, product, and QA teams to deliver stable and user-focused solutions. I value clean architecture, maintainable code, and measurable business impact.
+Built and maintained applications across **e-commerce, healthcare, and education**, supporting **thousands of active users**. Comfortable working in **distributed teams** and shipping reliable software for global audiences.
 
 ---
 
-### 🛠 Technical Skills
+## Technical Focus
 
 **Languages & Frameworks**
 - Dart, Flutter
-- RESTful APIs, Firebase (Auth, Firestore, Cloud Functions)
-- SQLite, GraphQL (basic)
+- RESTful APIs, Firebase (Auth, Firestore, Functions)
+- SQLite, GraphQL (working knowledge)
 
-**State Management**
+**Architecture & State**
+- Clean Architecture
 - GetX, Provider, BLoC
 
-**Tools & Platforms**
-- Git, GitHub, GitLab  
-- VS Code, Android Studio, Xcode  
+**Engineering Practices**
+- Performance profiling & optimization
+- Code reviews & refactoring
+- Agile / Scrum workflows
+- CI-ready, production deployment
+
+**Tooling**
+- Git (GitHub, GitLab)
+- Android Studio, VS Code, Xcode
 - Postman, Firebase Console
 
-**Practices**
-- Clean Architecture & Code Review  
-- Performance Optimization & Debugging  
-- Agile / Scrum Development  
-- App Store & Play Store Deployment  
+---
+
+## Selected Projects (Production)
+
+### 📘 TRSP & BD Books — E-Commerce Platform
+**Flutter | Firebase | REST APIs**
+
+- Led development of cross-platform e-commerce applications
+- Supported **10,000+ downloads per app** on Google Play
+- Implemented real-time inventory, order flow, and payment-ready architecture
+- Focused on performance stability and scalable state management
+
+🔗 Play Store:
+- https://play.google.com/store/apps/details?id=com.trsp
+- https://play.google.com/store/apps/details?id=com.bdbooks
 
 ---
 
-### 🌍 Professional Highlights
+### 🎓 Big Bang Exam Care & TRSP Exam Lab — E-Learning Systems
+**Flutter | Firebase | Real-time Sync**
 
-- Delivered multiple **production applications** with thousands of active users
-- Built and maintained **cross-platform mobile & desktop apps**
-- Collaborated with **distributed teams across time zones**
+- Designed quiz engines, progress tracking, and personalized study flows
+- Implemented real-time data synchronization with offline resilience
+- Optimized data access patterns for low-latency user experience
+
+---
+
+### 🏥 TimeCare — Healthcare Management Application
+**Flutter | Secure REST APIs**
+
+- Built appointment scheduling and patient service modules
+- Integrated secure backend APIs and role-based access
+- Ensured data consistency and production stability
+
+---
+
+### 🧾 Subscription Manager (Mobile & Desktop)
+**Flutter | Firebase | Notifications**
+
+- Developed subscription tracking for renewals and expirations
+- Built cross-platform UI supporting desktop and mobile
+- Integrated local notifications and real-time updates
+
+---
+
+### 🧠 Dev Work Management System
+**Flutter | Firebase | Realtime Communication**
+
+- Designed internal tool for client–developer task management
+- Implemented real-time chat, task tracking, and time logging
+- Improved workflow transparency and delivery efficiency
+
+---
+
+## Professional Experience
+
+**Application Developer — Bintel Future Tech**  
+*Nov 2024 – Present*
+
+- Own end-to-end feature development across multiple production apps
+- Collaborate with backend, QA, and product teams across time zones
 - Improved API performance and app stability through optimized data handling
-- Experienced in taking **end-to-end ownership** of features and releases
+
+**Assistant Software Engineer — Alphabyte Technology Ltd.**  
+*Oct 2023 – Nov 2024*
+
+- Developed and maintained Flutter applications for Android & iOS
+- Built offline-first systems using SQLite
+- Participated in code reviews and agile delivery cycles
 
 ---
 
-### 🌱 Currently
+## Availability
 
-- Working as a **Flutter Application Developer**
-- Open to **remote and international opportunities**
-- Actively collaborating on GitHub and learning advanced Flutter patterns
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/abusufiancse" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://github.com/abusufiancse" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-</a>
-</p>
+- Open to **Remote / International Opportunities**
+- Comfortable working with **EU & US time zones**
+- Strong written and verbal communication in English
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=abusufiancse&show_icons=true&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abusufiancse&show_icons=true" />
 </p>
 
 <p>
@@ -87,4 +135,4 @@ I have hands-on experience working in **agile and remote-friendly environments**
 
 ---
 
-<img src="https://raw.githubusercontent.com/MrNitishroy/MrNitishroy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MrNitishroy/MrNitishroy/output/snake.svg" alt="snake animation" />
