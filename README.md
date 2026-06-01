@@ -24,7 +24,7 @@
 
 ## 💼 Overview
 
-Flutter Engineer with **2+ years of professional experience** designing and delivering **production-scale mobile and desktop applications**. Experienced in **end-to-end ownership**, clean architecture, performance optimization, and cross-team collaboration.
+Flutter Engineer with **2.5+ years of professional experience** designing and delivering **production-scale mobile and desktop applications**. Experienced in **end-to-end ownership**, clean architecture, performance optimization, and cross-team collaboration.
 
 Built and maintained applications across **e-commerce, healthcare, and education**, supporting **thousands of active users**. Comfortable working in **distributed teams** and shipping reliable software for global audiences.
 
@@ -51,6 +51,7 @@ Built and maintained applications across **e-commerce, healthcare, and education
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-4FC08D?style=for-the-badge&logo=flutter&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-0085C7?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Frontend & UI/UX**
 
@@ -108,15 +109,6 @@ Built and maintained applications across **e-commerce, healthcare, and education
 |---|---|---|---|---|
 | [TimeCare](https://github.com/abusufiancse/timecare) | Android | Flutter, GetX, API | Hospital management and patient care application with appointments and medical record tracking. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/abusufiancse/timecare) |
 | LastPrice | Android / Windows | Flutter Desktop, SQLite | B2B buying and selling product from production source to retailer with online payment integration. | [![Production](https://img.shields.io/badge/Status-Production-green?logo=checkmarx&logoColor=white)]() |
-
-***
-
-# 🖥️ Desktop Applications
-
-| Project Link | Platform | Tools | Project Description | Repository |
-|---|---|---|---|---|
-| [Product Management System](https://github.com/abusufiancse/product-management-system) | Windows | Flutter Desktop, SQLite | Desktop-based product inventory and management system supporting stock control, reporting, and offline data persistence. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/abusufiancse/product-management-system) |
-| Subscription Manager | Android / Windows | Flutter Desktop, SQLite | Tracks subscription services for renewals and expirations, with management over who is using each subscription. | [![Production](https://img.shields.io/badge/Status-Production-green?logo=checkmarx&logoColor=white)]() |
 
 ***
 
