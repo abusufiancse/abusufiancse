@@ -128,21 +128,27 @@ Built and maintained applications across **e-commerce, healthcare, and education
 
 | Role | Company | Timeline | Location |
 |---|---|---|---|
-| **Application Developer** | Bintel Future Tech *(Sister concern of TRSP)* | Nov 2024 – Present | Puran Paltan, Dhaka |
-| **Asst. Software Engineer** | Alphabyte Technology Ltd. | Oct 2022 – Nov 2024 | Sector 14, Uttara, Dhaka |
+| **Senior Flutter Developer** | SDS Manager | Mar 2026 – Present | Gulshan, Dhaka, Bangladesh |
+| **Software Developer** | The Royal Scientific Publications | Nov 2024 – Feb 2026 | Dhaka, Bangladesh |
+| **Software Developer** | Alphabyte Technology Ltd. | Jan 2024 – Nov 2024 | Dhaka, Bangladesh |
 
-**At Bintel Future Tech**
-- Develop and maintain Android, iOS, and desktop applications using Flutter
-- Design and collaborate with backend developers to ensure smooth UI/UX and API integrations
-- Optimize app performance and fix bugs to enhance user experience
-- Participate in sprint planning, team discussions, and feature design
-- Successfully published multiple applications on Play Store including **BD BOOKS** and **TRSP**
+**Senior Flutter Developer — SDS Manager** *(Mar 2026 – Present)*
+- Lead Flutter development for cross-platform mobile and desktop products
+- Drive Android development standards, architecture decisions, and code quality
+- Mentor team members and conduct code reviews to ensure scalable, maintainable codebase
+- Collaborate with product and backend teams to ship reliable features in a hybrid setup
 
-**At Alphabyte Technology Ltd.**
-- Built and maintained Flutter applications for Android, following best practices and design guidelines
+**Software Developer — The Royal Scientific Publications** *(Nov 2024 – Feb 2026)*
+- Owned end-to-end mobile application development across multiple production apps
+- Built and shipped **BD BOOKS** and **TRSP** to Google Play with 10,000+ downloads each
+- Designed UI/UX, integrated REST APIs, and optimized performance across Android and iOS
+- Participated in sprint planning, feature design, and cross-team collaboration
+
+**Software Developer — Alphabyte Technology Ltd.** *(Jan 2024 – Nov 2024)*
+- Built and maintained Flutter applications for Android following best practices and design guidelines
 - Collaborated with senior developers and project managers to deliver high-quality applications on time
 - Troubleshot and resolved app functionality, performance, and UI/UX issues
-- Conducted code reviews to ensure maintainable and scalable codebase
+- Conducted code reviews to ensure a maintainable and scalable codebase
 
 ***
 

@@ -231,8 +231,8 @@
 
   <!-- Hi, I'm Abu Sufian -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="250" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi👋, I'm Abu Sufian</text>
+    <rect width="220" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi 👋 I'm Abu Sufian</text>
   </g>
 
   <!-- typing 2 -->
@@ -253,11 +253,11 @@
 
   </g>
 
-  <!-- From Bangladesh... -->
+  <!-- Title + Value -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">From Bangladesh 🇧🇩</text>
-    <text x="15" y="50">Flutter Engineer — Cross-Platform Mobile &amp; Desktop Apps</text>
+    <rect width="470" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Senior Flutter Developer 🇧🇩</text>
+    <text x="15" y="50">2+ yrs shipping production mobile &amp; desktop apps</text>
   </g>
 
   <!-- typing 3 -->
@@ -278,11 +278,11 @@
 
   </g>
 
-  <!-- Education + Work -->
+  <!-- Proof + Current -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">🎓 B.Sc. CSE @Daffodil International University</text>
-    <text x="15" y="50">💼 Application Developer @SDS Manager</text>
+    <rect width="490" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">🚀 9+ production apps · 10K+ Play Store downloads</text>
+    <text x="15" y="50">💼 Currently @SDS Manager · ex-TRSP, Alphabyte</text>
   </g>
 
   <!-- typing 4 -->
@@ -304,10 +304,10 @@
 
   </g>
 
-  <!-- Email -->
+  <!-- Availability -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="370" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">📧 Email: md.abusufiansobuj@gmail.com</text>
+    <rect width="430" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">🌍 Open to remote roles — EU &amp; US time zones</text>
   </g>
    <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
@@ -327,10 +327,10 @@
 
   </g>
   
-  <!-- Reach out -->
+  <!-- CTA -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="320" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">please reach out via <a xlink:href="https://www.linkedin.com/in/abusufiancse/">LinkedIn ...</a></text>
+    <rect width="290" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Let's connect on <a xlink:href="https://www.linkedin.com/in/abusufiancse/">LinkedIn →</a></text>
   </g>
   
 
