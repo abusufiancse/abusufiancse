@@ -256,7 +256,7 @@
   <!-- Title + Value -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="470" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Senior Flutter Developer 🇧🇩</text>
+    <text x="15" y="27">Flutter Developer 🇧🇩</text>
     <text x="15" y="50">2.5+ yrs shipping production mobile &amp; desktop apps</text>
   </g>
 
@@ -306,8 +306,8 @@
 
   <!-- Availability -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="430" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">🌍 Open to remote roles — EU &amp; US time zones</text>
+    <rect width="440" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">🌍 Open to opportunities — onsite, hybrid &amp; remote</text>
   </g>
    <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
